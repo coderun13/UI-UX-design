@@ -1,0 +1,23 @@
+STRUCTURE
+
+Every website has it own story to tell.
+Common section are:
+1. Navigation
+2. Hero Section 
+3. Feature section 
+4. Action section
+5. Testimonial section
+6. Pricing section
+7. Gallery section
+8. Contact section
+9. Footer section
+
+Elements in webpage
+1. Headings/Paragraghs
+2. Buttons/Links
+3. Images/Videos
+4. Forms
+
+We need to start with:
+1. Sitemap (planning all pages and everthing present on website)
+2. Wireframe (Low Fidelity design/basic structure)
