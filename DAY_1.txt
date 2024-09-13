@@ -1,0 +1,20 @@
+TALKING ABOUT BASICS
+
+THE PROCESS
+Types: 1.AMATEUR 2.PROFESSIONAL
+
+1.AMATEUR: It is basically taking a template and customizing it.
+2.PROFESSIONAL: Staring with blank canvas and designing a custom solution.
+
+PROFESSIONAL PROCESS
+STEP 1: PLANNING AND STRATEGY
+Create a brief by dicussing and planning.
+
+STEP 2: STRUCTURE(UX)
+We need to decide what pages will be there and what will be the content.
+
+STEP 3: DESIGN(UI)
+We will choose colors, fonts and images.
+
+STEP 4: DEVELOPMENT
+Design to code
