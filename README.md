@@ -7,7 +7,7 @@
     </p>
     <p>
         I have started with the basics, using beginner-friendly tools like 
-        <a href="https://www.relume.io/" target="_blank">AI Relume</a>, and aim to build my skills in creating 
+        <a href="https://www.relume.io/" target="_blank">Relume</a>, and aim to build my skills in creating 
         intuitive and user-centered designs.
     </p>
 <h2>🛠 Tools & Resources</h2>
