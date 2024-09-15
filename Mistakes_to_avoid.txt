@@ -1,0 +1,10 @@
+Not using contrast correctly (use Contract ratio checker)
+Not using whitespace effectively 
+Lack of consistency (use style guide)
+Designing for yourself (start to design for users and try to solve problems)
+Not using real data (try to build user centric design)
+Overusing animations
+Poor use of colors (understand color theory)
+Creating complex navigation menus
+Forgetting about mobile users (try to make responsive designs)
+Ignoring user feedbacks
