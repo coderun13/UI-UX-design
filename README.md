@@ -25,22 +25,14 @@
         <li><strong>User Testing:</strong> Maze, Lookback</li>
         <li><strong>Learning Platforms:</strong> AI Relume, Coursera, YouTube, Medium</li>
     </ul>
-<!--  <h2>📁 Repository Structure</h2>
+ <h2>📁 Repository Structure</h2>
     <pre>
 ├── wireframes/            # Wireframe designs and sketches
 ├── prototypes/            # Low-fidelity and high-fidelity prototypes
 ├── case-studies/          # Case studies of user experiences
 ├── resources/             # Useful UI/UX design links, articles, and tutorials
 └── notes/                 # Personal notes and insights from my learning
-    </pre> -->
- <!-- <h2>🚀 Projects</h2>
-    <ul>
-        <li><strong>Project 1:</strong> [Project Name]<br>
-        Description: (e.g., redesign of a landing page, app interface, etc.)</li>
-        <li><strong>Project 2:</strong> [Project Name]<br>
-        Description: (e.g., mobile-first design for an e-commerce app, etc.)</li>
-    </ul> -->
-   
+    </pre>
    <h2>👨‍🎓 Learning Goals</h2>
     <ol>
         <li>Understanding user needs and how to translate them into intuitive designs.</li>
@@ -54,10 +46,12 @@
         UI/UX design plays a crucial role in how users interact with digital products. By focusing on design principles 
         that prioritize users, I can contribute to creating better, more enjoyable experiences.
     </p>
-     <h2>Projects Included:</h2>
+     <h2>🚀 Projects Included:</h2>
     <ul>
         <li><strong>Clubhouse Redesign</strong>: Minor tweaks to improve the notification system and onboarding process.</li>
         <li><strong>Mobile Banking App Design</strong>: Fresh take on user-friendly banking experiences.</li>
+        <li><strong>Cafe Website Design</strong>: Model Style user-friendly Cafe Website.</li>
+        <li><strong>Logic Page Design</strong>: Simple user logic page design</li>
         <li>And more to come...</li>
     </ul>
     <p>Stay tuned for more UI/UX design ideas and contributions!</p>
