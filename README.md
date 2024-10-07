@@ -10,6 +10,13 @@
         <a href="https://www.relume.io/" target="_blank">Relume</a>, and aim to build my skills in creating 
         intuitive and user-centered designs.
     </p>
+    <h2>Key Highlights:</h2>
+    <ul>
+        <li>📱 <strong>Mobile and Web UI Redesigns</strong>: Featuring platforms like <strong>Clubhouse</strong> and more.</li>
+        <li>🎨 <strong>Figma Projects</strong>: All designs are created in <strong>Figma</strong> for seamless collaboration and iteration.</li>
+        <li>🚀 <strong>Real-world Design Applications</strong>: Practical solutions and design thinking applied to existing apps.</li>
+        <li>🔄 <strong>Work in Progress</strong>: Continuous updates with new design ideas and improvements.</li>
+    </ul>
 <h2>🛠 Tools & Resources</h2>
     <ul>
         <li><strong>Design Tools:</strong> Figma, Sketch, Adobe XD</li>
@@ -47,6 +54,13 @@
         UI/UX design plays a crucial role in how users interact with digital products. By focusing on design principles 
         that prioritize users, I can contribute to creating better, more enjoyable experiences.
     </p>
+     <h2>Projects Included:</h2>
+    <ul>
+        <li><strong>Clubhouse Redesign</strong>: Minor tweaks to improve the notification system and onboarding process.</li>
+        <li><strong>Mobile Banking App Design</strong>: Fresh take on user-friendly banking experiences.</li>
+        <li>And more to come...</li>
+    </ul>
+    <p>Stay tuned for more UI/UX design ideas and contributions!</p>
 
   <h2>🤝 Contributions</h2>
     <p>
